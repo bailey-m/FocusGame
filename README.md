@@ -1,7 +1,8 @@
 # FocusGame
 
-Focus is a two-player strategy board game. Players have colored pieces that move around the board. An image of the board at the game's start is below, where Player One is playing Red, and Player Two is playing Green. My implementation of the board omits the four 1x4 extensions around the edges, for simplicity (leaving only the 6x6 board in the center for gameplay).\
+Focus is a two-player strategy board game. Players have colored pieces that move around the board. An image of the board at the game's start is below, where Player One is playing Red, and Player Two is playing Green. My implementation of the board omits the four 1x4 extensions around the edges, for simplicity (leaving only the 6x6 board in the center for gameplay).
 
+![Focus Board](focus.png)
 ## Quick summary of the rules:
 **Making a move:** Stacks may move as many spaces as there are pieces in the stack. Players may only move a stack if the topmost piece in the stack is one of their pieces. When a stack lands on top of another stack, the two stacks merge.\
 \
